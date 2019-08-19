@@ -1,0 +1,6 @@
+export const expressStatConstant = {
+  EXPRESS_STAT_ACTIVE: 1,
+  EXPRESS_STAT_DELETED: 2,
+  EXPRESS_STAT_NOT_RELEVAN: 3,
+  EXPRESS_STAT_BLOCKED: 4
+}
